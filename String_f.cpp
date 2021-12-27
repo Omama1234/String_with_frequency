@@ -23,3 +23,11 @@ int main()
 
     return 0;
 }
+OUTPUT ->
+G->2
+e->4
+k->2
+s->2
+f->1
+o->1
+r->1
